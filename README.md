@@ -1,3 +1,13 @@
+<p align="center">
+<a href="https://github.com/Bansibarai">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Bansi+Barai;Web+Designer+%7C+MCA+%7C+Passionate;HTML5+%7C+CSS3+%7C+.Net" alt="Typing SVG" />
+</a>
+<br>
+<a href="https://github.com/Bansibarai">
+    <img src="https://github-stats-alpha.vercel.app/api?username=Bansibarai&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+    </p>
+<br>
 # 💫 About Me:
 🔭 I’m currently working on Web Designing<br>👯 I’m looking to collaborate on Projects based on Html,Css,Js..<br>🌱 I’m currently learning Web Designing and .Net<br>💬 Ask me about Html,Css,Javascript and .Net<br>⚡ Fun fact I am a very good learner....
 
